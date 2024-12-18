@@ -1,3 +1,6 @@
+# !!! DO NOT USE !!!
+The RP2350 is not yet supported by Embassy, so this repo is more of a placeholder
+
 # README
 A basic template for Rust projects based on the RP2040
 
