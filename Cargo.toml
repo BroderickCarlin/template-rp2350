@@ -17,7 +17,7 @@ embassy-time = { version = "0.3", features = ["defmt", "defmt-timestamp-uptime"]
 embassy-sync = { version = "0.6", features = ["defmt"] }
 
 # deps needed for USB serial support
-embassy-usb =  { version = "0.3", features = ["defmt"] }
+embassy-usb =  { version = "0.4", features = ["defmt"] }
 static_cell = { version = "2.0.0" }
 portable-atomic = { version = "1.5", features = ["critical-section"] } # needed for static_cell on thumbv6
 
